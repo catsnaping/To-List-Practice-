@@ -1,0 +1,4 @@
+Some notes for my GitHub journey:
+- Learned to create a repo
+- Edited files in the app
+- Created my first issue
